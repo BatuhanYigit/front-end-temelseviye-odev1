@@ -1,0 +1,29 @@
+body{
+    list-style: inside;
+}
+h1{
+    color: red;
+}
+
+div{
+    text-align: center;
+
+}
+a{
+color: black;
+padding-left: 10px;
+}
+a:hover{
+    color: blue;
+}
+.anasayfa{
+color: blueviolet;
+font-size: 16px;
+}
+.baslik{
+    color: cadetblue;
+}
+.deneme{
+    color: chocolate;
+    font-size: medium;
+}
